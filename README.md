@@ -1,5 +1,6 @@
-<img src="CPF.png" alt="some text" width=300 height=300>
-
+<h1 align="center">
+    <img src="CPF.png">
+</h1>
 <h1 align="center">
     <br>
     BUSCA CEP
