@@ -1,11 +1,11 @@
-<img src="CPF.png" alt="some text" width=60 height=40>
+<img src="CPF.png" alt="some text" width=300 height=300>
 
 <h1 align="center">
     <br>
-    Api para consulta de cep e trazer as informações preenchendo automático os campos do formulário.
+    BUSCA CEP
 </h1>
 
-<h4 align="center">Busca CEP</h4>
+<h4 align="center">Api para consulta de cep e trazer as informações preenchendo automático os campos do formulário.</h4>
 
 
 
