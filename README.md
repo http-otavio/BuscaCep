@@ -1,14 +1,13 @@
 <h1 align="center">
     <img src="CPF.png">
 </h1>
+
 <h1 align="center">
     <br>
     BUSCA CEP
 </h1>
 
 <h4 align="center">Api para consulta de cep e trazer as informações preenchendo automático os campos do formulário.</h4>
-
-
 
 
 ## :white_check_mark: Features
